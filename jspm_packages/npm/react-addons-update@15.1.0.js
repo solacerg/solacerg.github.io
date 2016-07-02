@@ -1,1 +1,0 @@
-module.exports = require("npm:react-addons-update@15.1.0/index.js");
